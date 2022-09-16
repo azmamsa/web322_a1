@@ -17,7 +17,7 @@ var app = express();
 
 // setup a 'route' to listen on the default url path
 app.get("/", (req, res) => {
-    res.send("Abid Z Mamsa\n158290205");
+    res.send("Abid Z Mamsa: 158290205");
 
 });
 
